@@ -1,0 +1,14 @@
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.exe
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.deps.json
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.runtimeconfig.json
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.runtimeconfig.dev.json
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.dll
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.pdb
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.dll
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.pdb
+E:\repos\.NET Core\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
